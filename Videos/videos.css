@@ -1,0 +1,14 @@
+body
+{
+	background-color: Grey;
+}
+
+h1
+{
+	text-align: center;
+	font: 50pt;
+}
+iframe{ 
+	display:block; 
+	margin:auto; 
+} 

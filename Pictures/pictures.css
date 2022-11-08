@@ -1,0 +1,25 @@
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  height: 50%;
+}
+
+.centerButton {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h1
+{
+	text-align: center;
+	color: Black;
+	font: 35pt;   
+}
+
+body
+{
+	background-color: Grey;
+}

@@ -1,0 +1,41 @@
+body
+{
+	background-color: Grey;
+}
+
+a
+{
+	color: Blue;
+	font: 35pt;
+	text-align:center;
+}
+
+h1
+{
+	text-align: center;
+	font: 50pt;
+	color: Black;	
+}
+
+img
+{
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+	width: 50%;
+
+}
+
+.Statistics
+{
+	color: Black;
+	font: 35pt;
+	text-align:center;
+}
+
+.Charity
+{
+	color: Black;
+	font: 35pt;
+	text-align:center;
+}
